@@ -1,0 +1,25 @@
+{
+    "produto": "[CATEGORIA] Produto com categoria principal - 1 Nível",
+    "mensagens": {
+        "cupomInvalido": "O cupom não é válido",
+        "freteGratis": "Frete Grátis"
+    },
+    "cupons": {
+        "freteGratis": {
+            "codigo": "FRETEGRATIS",
+            "mensagem": "Frete Grátis"
+        },
+        "desconto10": {
+            "codigo": "10OFF",
+            "percentual": "10.0"
+        },
+        "desconto30Reais": {
+            "codigo": "30REAIS",
+            "valor": "R$ 30,00"
+        },
+        "cupomVencido": {
+            "codigo": "CUPOMVENCIDO",
+            "mensagemErro": "O cupom não é válido"
+        }
+    }
+}
